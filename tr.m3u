@@ -465,5 +465,5 @@ https://592f1881b3d5f.streamlock.net:1443/santraltv_925/santraltv_925/playlist.m
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/107.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tivi TURK" tvg-logo="https://i.imgur.com/GLxHjHi.jpg" group-title="TURKEY",tivi TÜRK
 https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:-1 tvg-name="Halk TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Halk_tv_second.jpeg/revision/latest/scale-to-width-down/615?cb=20200604085606" group-title="TURKEY",Halk TV
+#EXTINF:-1 tvg-name="Halk TV" tvg-id="" tvg-logo="https://bit.ly/328G9ZF" group-title="TURKEY",Halk TV
 plugin://plugin.video.youtube/play/?video_id=AzwT-gEsZBg
