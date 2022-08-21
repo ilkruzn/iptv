@@ -464,3 +464,27 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/107.m3u8
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 tvg-name="Halk TV" tvg-id="" tvg-logo="https://bit.ly/328G9ZF" group-title="TURKEY",Halk TV
 plugin://plugin.video.youtube/play/?video_id=T7oQa6FRJZ0
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Discovery History UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/discovery.history.uk.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="http://picon.worldip.nl/satlogo/uk/discovery_science_global.png" group-title="Undefined",Discovery Science
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/925?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Discovery Science UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/discovery.science.uk.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="http://picon.worldip.nl/satlogo/uk/discovery_turbo_us.png" group-title="Undefined",Discovery Turbo
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/927?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DISCOVERY +1
+http://mains.services:2086/A.Jones01/1904550/104648?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
+http://mains.services:2086/A.Jones01/1904550/32042?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DISCOVERY HISTORY
+http://mains.services:2086/A.Jones01/1904550/32041?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DISCOVERY HISTORY +1
+http://mains.services:2086/A.Jones01/1904550/104649?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
+http://mains.services:2086/A.Jones01/1904550/32039?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE +1
+http://mains.services:2086/A.Jones01/1904550/104650?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DISCOVERY TURBO
+http://mains.services:2086/A.Jones01/1904550/72573?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DISCOVERY TURBO +1
+http://mains.services:2086/A.Jones01/1904550/104651?checkedby:iptvcat.com
