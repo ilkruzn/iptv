@@ -463,4 +463,4 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/107.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tivi TURK" tvg-logo="https://i.imgur.com/GLxHjHi.jpg" group-title="TURKEY",tivi TÜRK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 tvg-name="Halk TV" tvg-id="" tvg-logo="https://bit.ly/328G9ZF" group-title="TURKEY",Halk TV
-plugin://plugin.video.youtube/play/?video_id=FxF9H40IIJk
+plugin://plugin.video.youtube/play/?video_id=5qTwBHnFVrM
